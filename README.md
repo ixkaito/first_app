@@ -1,5 +1,3 @@
-# Ruby on Rails チュートリアル：サンプルアプリケーション
+# Ruby on Rails：テストアプリ
 
-This is the first application for the
-[*Ruby on Rails Tutorial*](http://railstutorial.jp/)
-by [Michael Hartl](http://michaelhartl.com/).
+This is the test application.
